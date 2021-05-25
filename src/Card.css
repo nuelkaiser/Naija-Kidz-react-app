@@ -1,0 +1,29 @@
+.wi {
+    width: 25vw;
+}
+
+.hi {
+    height: 55vh;
+}
+
+.bd {
+    border: 2px solid #111;
+}
+
+.mg {
+    margin: 5px;
+}
+ .pd {
+     padding: 2px;
+}
+
+.image-set {
+    width: 100%;
+    position: relative;
+
+}
+
+.fix-wi {
+    max-width:  50vh;
+    padding-bottom: 0px;
+}
